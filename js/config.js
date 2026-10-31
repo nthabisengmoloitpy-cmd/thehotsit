@@ -2,7 +2,7 @@
 window.EUPHORIA = {
   // Paste your Google Apps Script Web App URL here (see README.md, step 3).
   // Leave empty to run in demo mode (site works, nothing is saved).
-  SCRIPT_URL: "",
+  SCRIPT_URL: "https://script.google.com/macros/s/AKfycbwPUgIXwFOhUOEjptGKIe7REeAIN-Le6RJ-UdIty6k0b0uYlaKPMzRtfHZ_FVe4ntr05g/exec",
   WHATSAPP: "27703042778",          // international format, no + or spaces
   PHONE_DISPLAY: "0703 042778",
   EMAIL: "nthabisengmoloi.tpy@gmail.com",
